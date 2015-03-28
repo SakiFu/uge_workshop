@@ -1,19 +1,22 @@
+# Hidden folder where the staging area and commits live
+.git/
+
 #show simple version of help
 man less
 
 #exit
 q
 
-#show simple version of history
+# show simple version of history
 history | less
 
-#show history
+# show history
 history
 
-#show list of content of current directory
+# show list of content of current directory
 ls ~
 
-#ecit
+# exit
 exit
 
 ls -S
