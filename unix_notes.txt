@@ -1,0 +1,211 @@
+#show simple version of help
+man less
+
+#exit
+q
+
+#show simple version of history
+history | less
+
+#show history
+history
+
+#show list of content of current directory
+ls ~
+
+#ecit
+exit
+
+ls -S
+man ls
+ls -i
+ls -G
+ls -R
+ls -r
+ls -C
+ls -w
+ls -p
+ls man
+ls help
+
+#show list include'.''
+ls -a
+
+#
+ls -l -t
+ls -l
+ls -t
+cd /
+owd
+git --version
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+c d..
+cd Applications/
+uname
+ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+ls Contents/SharedSupport/bin/
+ls Contents/bin
+ls Contents/
+cd Sublime\ Text.app/
+brew info fish
+brew in
+brew prune
+brew doctor
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew upgrade
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+brew
+ls -g
+saki
+psql -h localhost
+scrapy crawl livingsocial
+mkvirtualenv ScrapeProj
+cd /Users/sakiukaji/Projects/new-coder/scrape_workspace/my_scraper/scraper_app 
+python sdk.py
+cd Desktop
+show path
+pip install --upgrade aylien-apiclient
+crontab -e
+cd scraper_app
+cd scrape_workspace
+source /usr/local/bin/virtualenvwrapper.sh
+ipython
+python count_word.py 
+python count_word.py 'camera.txt' 'camera'
+python count_word.py 'camera.txt'
+python count_word.py camera.txt
+python count_word.py
+cd /Users/sakiukaji/Desktop/practice 
+/Users/sakiukaji/Projects/new-coder/scrape_workspace/my_scraper/scraper_app 
+cd /Users/sakiukaji/Projects/new-coder/scrape_workspace/my_scraper 
+find virtualenv
+fird virtualenv
+psql -h localhost -d postgres
+python count_word.py camera.txt is
+python count_word.py camera.txt 'is'
+scrapy crawl dmoz -o items.json -t json
+psql -h localhost -d scrape
+'/Applications/Postgres.app/Contents/Versions/9.4/bin'/psql -p5432
+from scrapy.item import Item, Field
+from __future__ import absolute_import
+which virtualenv
+find / -name virtualenv
+cd scrape/living_social/
+cd scrper_app
+cd my_scraper
+cd scrape_workspace/
+cd scrape
+touch __init__.py
+cd spiders
+easy_install pyOpenSSL==0.13
+pip install cssselect
+STATIC_DEPS=true pip install lxml
+pip install lxml
+xcode-select --install
+pip install lxml==3.1.2
+sudo pip install lxml
+pip install w3lib
+pip install twisted
+cd my_scraper/scraper_app
+touch pipelines.py
+touch models.py
+touch settings.py
+touch livingsocial_spider.py
+cd /Users/sakiukaji/Projects/new-coder/scrape_workspace/my_scraper/scraper_app/spiders 
+cd /Users/sakiukaji/Projects/new-coder/scrape 
+cd new-coder/scrape
+find virtuaenv
+. bin/activate
+python SF_film.py
+cd /Users/sakiukaji/Projects/new-coder/dataviz/MySourceFiles 
+python parse.py
+run parse.py
+python mp.py
+pl.show()
+pl/show()
+import matplotlib.pyplot as plt
+ipython --pylab
+y = np.sin(x)
+x = np.arange(-3,3, .1)
+import numpy as np
+pytho mp.py
+python run mp.py
+cd  /Users/sakiukaji/Desktop
+pyhon wdi.py
+python graph.py
+git--version
+touch items.py
+mkdir spiders
+mkdir scraper_app
+mkdir my_scraper
+mkdir scrape_workspace
+cd..
+pip install -r requirements.txt
+python api.py --giantbomb-api-key 405dbdc40917d220aa544a2b406abe2ae83cd64c --debug --limit 40 --csv-file ~/Projects/new-coder/apis/my_csv.csv
+python api.py --giantbomb-api-key 405dbdc40917d220aa544a2b406abe2ae83cd64c --plot-file ~/Projects/new-coder/apis/my_plot.png --csv-file ~/Projects/new-coder/apis/my_csv.csv
+python api.py --giantbomb-api-key 405dbdc40917d220aa544a2b406abe2ae83cd64c --plot-file ~/Projects/new-coder/apis/my_plot.png--csv-file ~/Projects/new-coder/apis/my_csv.csv
+python api.py --giantbomb-api-key 405dbdc40917d220aa544a2b406abe2ae83cd64c --csv-file ~/Projects/new-coder/apis/my_csv.csv
+python api.py --giantbomb-api-key 405dbdc40917d220aa544a2b406abe2ae83cd64c --plot-file ~/Projects/new-coder/apis/my_plot.png
+python api.py --giantbomb-api-key [405dbdc40917d220aa544a2b406abe2ae83cd64c] --plot-file ~/Projects/new-coder/apis/my_plot.png
+python api.py 
+python api.py --giantbomb-api-key [YOUR_KEY] --plot-file ~/Projects/new-coder/apis/my_plot.png
+python apis.py --giantbomb-api-key [YOUR_KEY] --plot-file ~/Projects/new-coder/apis/my_plot.png
+cd apis
+cd pwd
+python platform_pricing.py --giantbomb-api-key [YOUR_KEY] --plot-file ~/Projects/new-coder/apis/my_plot.png
+cd /Users/sakiukaji/Projects/new-coder/api_workspace
+cd /Users/sakiukaji/Projects/new-coder/apis
+touch api.py
+cd api_workspace
+mkdir api_workspace
+cd /Users/sakiukaji/Projects/new-coder
+cd /Users/sakiukaji/Projects/new-coder/apis 
+cd /Users/sakiukaji/Projects/new-coder/dataviz
+cd /Users/sakiukaji/.pip
+cd /Users/sakiukaji/.pip/pip.log
+mkvirtualenv APIProj
+mkdir apis
+cd new-coder/apis
+python wdi.py
+wdi.py
+python map.py
+python graph.pypwd
+cd MySourceFiles
+mkdir MySourceFiles
+pip install geojson
+pip install matplotlib
+pip install numpy
+mkvirtualenv DataVizProj
+cd new-coder/dataviz
+git clone https://github.com/econchick/new-coder.git
+cd Projects
+mkdir Projects
+mkvirtualenv TestEnv
+. ~/.bash_profile
+source "/usr/bin/virtualenvwrapper.sh"
+mv /Users/sakiukaji/Downloads/virtualenvwrapper-4.3.2 /usr/local/bin/virtualenvwrapper.sh
+cd /Users/sakiukaji/Downloads/virtualenvwrapper-4.3.2
+source /Users/sakiukaji/Downloads/virtualenvwrapper-4.3.2 2/virtualenvwrapper.sh
+sudo find / -name virtualenvwrapper.sh
+sudo / -name virtualenvwrapper.sh
+find: /private/var/spool/postfix/saved: Permission denied
+sudo Permission denied
+find / -name virtualenvwrapper.sh
+mkdir -p $WORKON_HOME
+echo 'source /usr/local/bin/virtualenvwrapper.sh' >> ~/.bash_profile
+echo 'export WORKON_HOME=~/Envs' >> ~/.bash_profile
+sudo pip install virtualenvwrapper
+sudo pip install --upgrade setuptools
+curl https://raw.githubusercontent.com/pypa/pip/master/contrib/get-pip.py | sudo python
+source ~/.bash_profile
+sudo pip install virtualenv
+ 
