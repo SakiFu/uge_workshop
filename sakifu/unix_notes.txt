@@ -1,0 +1,47 @@
+Kernel is a program which connect app and hardware.
+
+Shell is a interface for user to access kernel 
+including command line, graphic(e.g. mouse, touch panel),
+audio(e.g. siri, echo)
+
+# Change directory
+cd
+
+# Move to one upper level directory
+cd ..
+
+# Show current directory
+pwd
+
+# Remove file
+rm
+
+# Force to quit the command
+C^
+
+# Hidden folder where the staging area and commits live
+.git/
+
+# Show simple version of help
+man less
+
+# Exit
+q
+
+# Show simple version of history
+history | less
+
+# Show history
+history
+
+# Show list of content of current directory
+ls ~
+
+# Show list of likes and size by kilobyte
+ls -s
+
+# Show list in reverse order
+ls -r
+
+# Save history in file.
+history > filename
