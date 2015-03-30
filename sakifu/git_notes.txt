@@ -1,0 +1,49 @@
+GitHub is a hub for git. People can share code and publish there.
+
+# Create repository
+git init
+
+# Clone existing repository
+git clone
+
+# Show changed files
+git status
+
+# Decide file to commit
+git add
+
+# Commit the change of the file
+git commit
+
+# Display/create branch
+git branch
+
+# Change branch to work on
+git checkout
+
+#　Merge local branch.
+git merge
+
+# Send the change to remote repository.
+git push
+
+# Merge the change of other repository into local repository
+git pull
+
+# Delete branch
+git branch -d
+
+# Show difference.
+git diff
+
+# Show hitory of commit.
+git log
+
+# Move file to another directory.
+git mv filename directoryname
+
+# Change file name
+git mv filename newfilename
+
+# Reset the previous commit
+git reset
